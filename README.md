@@ -24,6 +24,9 @@
 ## Set up your dev environment
 - https://docs.microsoft.com/en-us/office/dev/add-ins/overview/set-up-your-dev-environment
 
+## Important
+We suggest deploying the Web AddOn directly on the M42 Service Store Webserver. Otherwise you will run into CORS issues.
+
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/81413189/149336748-707df9dc-9e9b-4454-b83c-72a10142917c.png)
 
