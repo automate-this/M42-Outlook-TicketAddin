@@ -1,4 +1,4 @@
-## M42 Outlook AddIn
+# M42 Outlook AddIn
 
 # Adapt to your production environment
 ## src.taskpane.components.Constants
