@@ -1,14 +1,14 @@
 ## M42 Outlook AddIn
 
-## Adapt to your production environment
-# src.taskpane.components.Constants
+# Adapt to your production environment
+## src.taskpane.components.Constants
 - DefaultCategoryGUID
 - DefaultInitiatorGUID
-# webpack.config.js
+## webpack.config.js
 - urlProd
 
-## Local Test
-# Prerequisites
+# Local Test
+## Prerequisites
 - cors-anywhere
     PS C:\VSCodeWorkspace\cors-anywhere> npm install cors-anywhere
     PS C:\VSCodeWorkspace\cors-anywhere\node_modules\cors-anywhere> npm start
@@ -18,5 +18,8 @@
     -> aus Datei hinzufügen -> manifest.xml aus m42-ticket-addin - Ordner auswählen (nicht vom dist-Ordner)
 - npm run dev-server
 
-## Build
+# Build
 - npm run build
+
+## Set up your dev environment
+- https://docs.microsoft.com/en-us/office/dev/add-ins/overview/set-up-your-dev-environment
